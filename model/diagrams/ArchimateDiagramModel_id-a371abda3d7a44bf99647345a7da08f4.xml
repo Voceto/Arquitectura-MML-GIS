@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
+    name="Arquitectura Lógica"
     id="id-a371abda3d7a44bf99647345a7da08f4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
